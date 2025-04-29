@@ -70,8 +70,36 @@ In India, A Large Portion Of The Population—especially In Tier 2/3 Cities And 
 
 - “Medguide” Is A Mobile/Web App That Allows Users To Either Type Or Scan A Medicine Name To Receive Easy-to-understand Explanations In Their Preferred Local Language (Hindi, Tamil, Bengali, Etc.). The App Provides Information Such As The Medicine’s Use, Dosage, And Common Side Effects Using A Hardcoded Database Of 50+ Common Drugs. The Mvp Focuses On Accessibility And User-friendliness, Especially For Elderly Or Non-english-speaking Users. Future Versions Can Integrate With Indiastack Elements Like Digilocker Or Health Id For Prescription Retrieval And Personalized Guidance.
 
+## Getting Started
+
+Follow these instructions to get a copy of the project up and running on your local machine.
+
+### Prerequisites
+
+- Flutter installed on your machine ([Installation Guide](https://flutter.dev/docs/get-started/install))
+- Emulator or physical device for testing
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/zahra-choksi/med_guide_app.git
+2. Change into the project directory:
+
+   ```bash
+    cd med_guide
+3. Install dependencies:
+
+    ```bash
+    flutter pub get
+4. Run the app:
+
+    ```bash
+   flutter run
+
 
 
 ### Thank you 
 
-## Team Name :- 
+## Team Name :- AppRush
