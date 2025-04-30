@@ -103,3 +103,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### Thank you 
 
 ## Team Name :- AppRush
+## Contributors :- 
+       Zahra Choksi - https://github.com/zahra-choksi
+       Ayan Shaikh - https://github.com/ayanshaikh-2310
